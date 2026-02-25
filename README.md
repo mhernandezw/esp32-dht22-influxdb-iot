@@ -27,7 +27,7 @@ Para compilar este proyecto, debes instalar las siguientes librerías desde el G
 
 ## 📂 Estructura del Proyecto
 - `esp32_sensor.ino`: Código fuente principal para el microcontrolador.
-- **Ecosistema:** Este repositorio alimenta el [Dashboard de Grafana](http://rubius.ddns.net/public-dashboards/304227f5af52407482bd83fd15766d8f?orgId=1&refresh=10s) y el [Agente de IA](https://github.com/TU_USUARIO/ai-agent-influxdb-weather).
+- **Ecosistema:** Este repositorio alimenta el [Dashboard de Grafana](http://rubius.ddns.net/public-dashboards/304227f5af52407482bd83fd15766d8f?orgId=1&refresh=10s) y el [Agente de IA](https://github.com/mhernandezw/ai-agent-influxdb-weather).
 
 ## ⚙️ Configuración del Código
 Para desplegar este código en tu propio entorno, asegúrate de actualizar los *placeholders* en el archivo `.ino`:
@@ -37,6 +37,6 @@ Para desplegar este código en tu propio entorno, asegúrate de actualizar los *
 ---
 
 👤 **Marcelo Carlos Hernandez Wrona**
-- **Sistemas:** Administrador de Sistemas con más de 10 años de experiencia.
+- [cite_start]**Sistemas:** Administrador de Sistemas con más de 10 años de experiencia[cite: 19, 39].
 - **Formación:** Grado Superior ASIR y Máster en IA (Founderz).
 - 📧 [marcelo_hernandez_12@hotmail.com](mailto:marcelo_hernandez_12@hotmail.com)
